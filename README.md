@@ -1,6 +1,5 @@
 # Comandos útiles de "_*_git_*_"
-				
-#----*Aprenderemos a usar comandos básicos de *git*-----
+
 1. git init
 2. git add <<fichero>>, git add <<carpeta>>, git add .
 3. git commit -m "mesaje", git commit --amend -m "mensaje"
