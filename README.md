@@ -20,3 +20,4 @@
 17. git remote, git remote -v
 18. git pull <remote> <rama>, git fetch <remoto>
 19. git push <remoto> <rama>
+20. git commit -am
